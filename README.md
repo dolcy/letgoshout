@@ -1,4 +1,4 @@
-## letgo tweet shout assessment
+## Letgo tweet shout assessment
 Technical assessment based on Twitter. Built entirely in Laravel.
 
 ## Getting Started
