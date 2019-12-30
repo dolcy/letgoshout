@@ -9,13 +9,13 @@ config:
   database: mariadb:10.2
   xdebug: false
   node:
-    type: node:8
+    type: node:11
     globals:
       yarn: "latest"
 # Services
 services:
   database:
-    type: mariadb:10.2
+    type: mariadb:10.3
     portforward: 3307
     creds:
       user: root
